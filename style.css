@@ -1,0 +1,40 @@
+table {
+    border: .15em solid #660000;
+    font-size: 1.5em;
+    font-family:  cursive, serif;
+    background-color: #440000;
+    
+}
+h1 {
+    font-family: Times, sans-serif;
+    font-size: 3em;
+    text-align:center;
+}
+
+td {
+    border: .2em solid #660000;
+}
+
+
+html {
+    color: #00CCCC;
+}
+
+body {
+    background-image: url("https://media.giphy.com/media/RHpf4nRzaZrmE/giphy.gif");
+    background-size: .1em;
+}
+
+img {
+    height: 20em;
+    width: 25em;
+}
+.background {
+    background-image: url("https://media.giphy.com/media/RHpf4nRzaZrmE/giphy.gif");
+    background-attachment: fixed;
+ 
+}
+a {
+    text-decoration: None;
+    color: #00CCCC;
+}
